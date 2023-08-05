@@ -4,3 +4,6 @@ def factorial (a):
     else:
         return a * factorial(a - 1)
 print(factorial(int(input())))
+
+
+print (res)
