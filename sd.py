@@ -7,12 +7,6 @@
 #     print (polindr.__doc__)
 # polindr(a)
 
-# # : typing.Any[int,float]) -> typing.Any[int,float]:
-# # import typing
-
-# list_obj = [-10, 1, 2, 3, -7, 4, 5, 6, 7, 8, 9]
-
-
 # def decor(func):
 #     def wrapper(x):
 #         result = list(map(lambda a: a * 2 + 10, x))
